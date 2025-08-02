@@ -4,7 +4,7 @@ A modern, clean, and fully responsive “Doctor Portal” UI built in React.js. 
 
 🚀 Live Demo
 View the Live Site Here
-Live Hosting: https://your-live-hosting-link.com
+Live Hosting: (https://celadon-rugelach-60dcaf.netlify.app/)
 ------------
 
 🎥 Demo Video
